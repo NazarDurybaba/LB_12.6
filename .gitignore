@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+/.vs/LB_12.6/FileContentIndex/7478e274-c887-4d65-916d-1db18c345a86.vsidx
+/.vs/LB_12.6/FileContentIndex/cca9ee9b-53b4-4145-b9ce-cc38c14254ba.vsidx
+/.vs/LB_12.6/v17
+/UnitTest1/x64/Debug
+/x64/Debug
